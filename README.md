@@ -34,3 +34,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# Professional Portfolio Template
+
+A modern **portfolio website template s**, built with **Next.js, TailwindCSS, and Framer Motion**.
+
+This template is designed for doctors, dentists, public health professionals, researchers, and medical practitioners who want a clean and professional personal website.
+
+---
+
+## Features
+
+- Modern responsive layout
+- Professional hero section
+- About section
+- Professional experience timeline
+- Research showcase
+- Certifications section
+- Community outreach photo gallery
+- Smooth scrolling navigation
+- Animations using Framer Motion
+
+---
+
+## Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion
+- Vercel (for deployment)
+
+---
+
+## Project Structure
+
