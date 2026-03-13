@@ -68,5 +68,40 @@ This template is designed for doctors, dentists, public health professionals, re
 
 ---
 
-## Project Structure
+
+---
+
+## Customization
+
+Replace the placeholder content with your own information:
+
+- Name
+- Professional title
+- Experience
+- Research work
+- Certifications
+- Contact details
+- Images in `/public/images`
+- Photo gallery in `/public/photoslide`
+
+---
+
+## Deployment
+
+The project can be deployed easily using **Vercel**.
+
+
+---
+
+## License
+
+This template is available for **personal and educational use**.
+
+---
+
+## Author
+
+Created by **Pari Sharma**
+
+
 
