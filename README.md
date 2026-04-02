@@ -1,5 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Professional Portfolio Template
 
+A modern **portfolio website template s**, built with **Next.js, TailwindCSS, and Framer Motion**.
+
+This template is designed for doctors, dentists, public health professionals, researchers, and medical practitioners who want a clean and professional personal website.
+
+---
+
+## Features
+
+- Modern responsive layout
+- Professional hero section
+- About section
+- Professional experience timeline
+- Research showcase
+- Certifications section
+- Community outreach photo gallery
+- Smooth scrolling navigation
+- Animations using Framer Motion
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
@@ -34,26 +53,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
-# Professional Portfolio Template
-
-A modern **portfolio website template s**, built with **Next.js, TailwindCSS, and Framer Motion**.
-
-This template is designed for doctors, dentists, public health professionals, researchers, and medical practitioners who want a clean and professional personal website.
-
----
-
-## Features
-
-- Modern responsive layout
-- Professional hero section
-- About section
-- Professional experience timeline
-- Research showcase
-- Certifications section
-- Community outreach photo gallery
-- Smooth scrolling navigation
-- Animations using Framer Motion
 
 ---
 
